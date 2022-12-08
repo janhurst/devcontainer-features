@@ -15,7 +15,8 @@ jobs:
         features:
           - yeoman
         baseImage:
-          - nodejs/devcontainer:latest
+          - mcr.microsoft.com/devcontainers/typescript-node
+
     steps:
       - uses: actions/checkout@v2
 
