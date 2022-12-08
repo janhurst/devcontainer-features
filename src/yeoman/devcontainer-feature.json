@@ -1,7 +1,7 @@
 {
     "name": "Yeoman",
     "id": "yeoman",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "Yeoman",
     "installsAfter": [
         "ghcr.io/devcontainers/features/node:1"
